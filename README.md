@@ -25,7 +25,11 @@ INSTALL APPLIKASI GitHub Desktop DI PC/LAPTOP
 6. Pilih Remote -> Masukkan link berikut ini di Primary remote: https://github.com/gadadhardasa/Values-of-Life.git
 7. Klik Save.
 
-MEMBUKA FILE PROJECT DENGAN GitHub Desktop:
-1. Dihalaman ini klik tombol hijau "Code"
-2. Pilih Menu "Open with GitHub Desktop"
+MEMBUKA & MENGEDIT FILE PROJECT DENGAN GitHub Desktop:
+1. Dihalaman ini klik tombol hijau "Code" 
+2. Pilih Menu "Open with GitHub Desktop" (buka secara manual di pc)
+3. Dari Aplikaksi GitHub Desktop klik tombol 'Show in Explorer'
+4. Pilih Folder dan buka file yang akan diedit. 
+5. Simpan file yang diedit.
+6. Kembali ke app GitHub Desktop, klik tombol 'commit to main'
 
