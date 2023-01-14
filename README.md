@@ -9,8 +9,15 @@ Bringing A Revolution In The Hearts and Consiousness Of The Students
 
 PROJECT COLABORATION GUIDE
 ==========================
-INSTALL APPLIKASI GitHub Desktop DI PC/LAPTOP
 
+MENDOWNLOAD FILE PROJECT KE PC/LAPTOP:
+1. Buka link: https://github.com/gadadhardasa/Bhakta-Training.git
+2. Dihalaman ini klik tombol hijau "Code" 
+3. Pilih Menu "Download Zip" dan tentukan folder peneyimpanannya di pc/laptop masing2. 
+
+*)Untk bisa menambahkan file baru/upload/branch, disarankan untk membuat akun di github dngan menggunakan email masing2. lalu login ke: https://github.com/login
+ 
+INSTALL APPLIKASI GitHub Desktop DI PC/LAPTOP:
 1. Buka web GitHub Desktop di link berikut ini: https://desktop.github.com/
 2. Klik "Download for Windows /Mac
 3. Install applikasi tersebut di pc/laptop anda 
