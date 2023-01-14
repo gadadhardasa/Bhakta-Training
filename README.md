@@ -22,8 +22,10 @@ INSTALL APPLIKASI GitHub Desktop DI PC/LAPTOP
 3. Install applikasi tersebut di pc/laptop anda 
 4. Buka aplikasi GitHub Desktop
 5. Klik menu Repository -> Repository Setting
-6. Pilih Remote -> Masukkan link berikut ini di Primary remote: https://github.com/gadadhardasa/Values-of-Life.git
-7. Klik Save.
+6. Pilih Remote -> Masukkan link berikut ini di Primary remote: https://github.com/gadadhardasa/Bhakti-Raja-Vidya.git
+7. Pilih lokasi/folder untuk menyimpan file ini di PC/Laptop anda
+8. Klik Save.
+
 
 MEMBUKA & MENGEDIT FILE PROJECT DENGAN GitHub Desktop:
 1. Dihalaman ini klik tombol hijau "Code" 
