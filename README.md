@@ -1,17 +1,12 @@
-# Bhakti-Raja-Vidya
-
-THE BHAKTI RAJA VIDYA - 
+# BHAKTA-TRAINING - THE VALUE OF LIFE - 
 Bringing A Revolution In The Hearts and Consiousness Of The Students
 
 
-#PROJECT: BGKIDS LEARNING MODULES  
-#ABOUT:
-A PROJECT FOR FUTURE OF ISKCON IN  
-BULDING CHARACTER OF OUR CHILDREN
+#PROJECT #1: BGKIDS LEARNING MODULES  
+#ABOUT: Educational Trining Project For Building Character of Our Children.
 
 
 MAIN TASK: BGKids Curriculum & Learning Module Development
-
 
 PROJECT COLABORATION GUIDE
 ==========================
@@ -22,7 +17,7 @@ INSTALL APPLIKASI GitHub Desktop DI PC/LAPTOP
 3. Install applikasi tersebut di pc/laptop anda 
 4. Buka aplikasi GitHub Desktop
 5. Klik menu Repository -> Repository Setting
-6. Pilih Remote -> Masukkan link berikut ini di Primary remote: https://github.com/gadadhardasa/Bhakti-Raja-Vidya.git
+6. Pilih Remote -> Masukkan link berikut ini di Primary remote: https://github.com/gadadhardasa/Bhakta-Training.git
 7. Pilih lokasi/folder untuk menyimpan file ini di PC/Laptop anda
 8. Klik Save.
 
