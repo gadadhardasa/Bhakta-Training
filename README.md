@@ -1,6 +1,6 @@
-# Values-of-Life
+# Bhakti-Raja-Vidya
 
-THE VALUES OF LIFE - 
+THE BHAKTI RAJA VIDYA - 
 Bringing A Revolution In The Hearts and Consiousness Of The Students
 
 
