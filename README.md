@@ -1,12 +1,10 @@
-# BHAKTA-TRAINING - THE VALUE OF LIFE - 
+#BHAKTA-TRAINING - THE VALUE OF LIFE
 Bringing A Revolution In The Hearts and Consiousness Of The Students
 
 
 #PROJECT #1: BGKIDS LEARNING MODULES  
-#ABOUT: Educational Trining Project For Building Character of Our Children.
-
-
-MAIN TASK: BGKids Curriculum & Learning Module Development
+#ABOUT: Educational Trining Project For Building Character and Spiritual Counsciousness of Our Children.
+#MAIN TASK: BGKids Curriculum & Learning Module Development
 
 PROJECT COLABORATION GUIDE
 ==========================
