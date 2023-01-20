@@ -45,13 +45,4 @@ HOW CONTRIBUTORS CONTRIBUTE:
 2. Cara kedua: Belajar menggunakan tools github ini dngan cara:
 3. Buat akun dngan email masing2.
 4. Login ke website ini, stelah login akan ada beberapa menu yg aktif untk memudahkan contributor dalam menedit dan menyamakan file-file yg sedang dikerjakan bersama.
-6. Dibutuhkan ide-ide kreatif dr kt bersama. jika kekurangan ide, minta sama Guru Maharaj dan Krsna :)
-5. Hal yg paling penting adalah... komitmen masing-masing anggota tim untk mengerjakan project ini setiap hari. Kecepatan project ditentukan oleh seberapa kt invest waktu untk mengerjakannya. 
-
-
-DURASI PROJECT:
-1. Biasanya setiap project ada jadwal project, tp krn ini bersifat volunteer dan spiritual, maka panjadwalan bergantung pada inspirasi "Rohani" saja :)
-2. Sebagai gambaran saja, jika 1 semester (6bln) butuh 2 module, maka dalam 1 tahun hhrusnya kt bs memproduksi 4 Module. jd 1 Module hrus bisa selesai dalam waktu 3 bln sja, atau lebih cepat lebih baik. 
-
-om tat sat | Hare Krsna
 
